@@ -1,0 +1,49 @@
+Documento txt con los logs de la Actividad 3
+
+commit 569a1f9a6269e89df9b82f25bd1d3c46cac5522e (HEAD, rama_Jorge)
+Author: Jorge-TL <a01367223@itesm.mx>
+Date:   Fri May 7 21:33:53 2021 -0500
+
+    Cambio de colores 2
+
+commit 79b21dbc9c853882fbea16cfe380958dd8888f40 (origin/rama_Jorge)
+Author: Jorge-TL <a01367223@itesm.mx>
+Date:   Fri May 7 21:22:47 2021 -0500
+
+    Mejora velcidad y recoloreo de mapa
+
+commit cdc345b1d630ea2136d11b922791f5c609245348 (origin/master, master)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 19:12:37 2021 -0500
+
+    Creacion log txt
+
+commit ce6c1ce21c67ee1bd4898a4b559b63511a110a4d
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 18:46:27 2021 -0500
+
+    Final update
+
+commit b43ccffdc6c316115d800b2dc22b53bc6c84f12a (origin/Rama_Chava27)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 17:44:04 2021 -0500
+
+    Smart Ghost
+
+commit b3b836a9bd4d34a876cabe76750f89d6cd753267
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 10:07:33 2021 -0500
+
+    Correcion Velocidad y Mapa
+
+commit b14cc40686a451b0dd8ee898eadcb470305b638f
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 22:07:11 2021 -0500
+
+    MAP EXPANSION
+
+
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 20:13:09 2021 -0500
+
+    Copy1
